@@ -27,19 +27,19 @@ You can install the required libraries using pip:
 pip install numpy pandas torch torchvision h5py matplotlib Pillow scipy
 ```
 ## Exercises
-###1. Support Vector Machine (SVM)
+### 1. Support Vector Machine (SVM)
 In this exercise, you will implement and train an SVM classifier.
 
-###2. Linear Regression
+### 2. Linear Regression
 This exercise involves implementing a linear regression model to predict continuous values.
 
-###3. Meta-Learning
+### 3. Meta-Learning
 Explore meta-learning techniques to improve model performance on small datasets.
 
-###4. Generative Adversarial Networks (GANs)
+### 4. Generative Adversarial Networks (GANs)
 Implement GANs to generate new data samples from a given dataset.
 
-###5. Neural Networks
+### 5. Neural Networks
 Build and train neural networks for various classification and regression tasks.
 
 ##Running the Code
@@ -57,12 +57,12 @@ jupyter notebook neural_network_exercise.ipynb
 ```
 3. Follow the instructions in the notebook to complete the exercise.
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss your ideas.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 These exercises were developed for a Machine Learning class by Dr. Xi Peng at the University of Delaware.
 Inspiration and guidance were drawn from various advanced machine learning courses and tutorials.
